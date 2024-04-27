@@ -1,4 +1,4 @@
-var tokenBot = '6299530694:AAGQ4i4FThkwbr51cZZnL-Pt69uYa8EiW98'; // Your "tokenBot" Here
+var tokenBot = '7043468421:AAELoNUXP7iQ2ShMBCC7zr6fbmJavy8yQP0'; // Your "tokenBot" Here
 var chatId = '480631913'; // Your "chatId" Here
 
 function telegramSend(tokenBot, chatId) {
